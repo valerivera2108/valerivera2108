@@ -289,9 +289,9 @@
         
         .featured-img {
             height: 200px;
-            background-color: #ddd;
             background-size: cover;
             background-position: center;
+            background-repeat: no-repeat;
         }
         
         .featured-content {
